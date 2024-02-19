@@ -51,7 +51,7 @@ else
 
 ## Sample Application
 
-Check out the [sample application](usages) provided in this repository for a complete example of how to use the CYRUS_SIM800L library in your projects.
+Check out the [sample application](usage/Program.cs) provided in this repository for a complete example of how to use the CYRUS_SIM800L library in your projects.
 
 ## Contributing
 
