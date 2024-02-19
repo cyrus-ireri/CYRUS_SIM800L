@@ -11,7 +11,7 @@ The CYRUS_SIM800L library is a C# .NET Core library that simplifies sending SMS 
 
 ## Installation
 
-You can install the CYRUS_SIM800L library via NuGet Package Manager or by downloading the DLL from the [releases](link_to_releases) section of this repository.
+You can install the CYRUS_SIM800L library via NuGet Package Manager or by downloading the DLL from the [releases](releases) section of this repository.
 
 ### NuGet Package Manager
 
