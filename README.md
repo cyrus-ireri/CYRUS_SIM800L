@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to [contributors]((https://github.com/cyrus-ireri) who have helped improve this library.
+Special thanks to [contributors](https://github.com/cyrus-ireri) who have helped improve this library.
 
 ---
 
